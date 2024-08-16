@@ -7,7 +7,7 @@ I would like to thank [Rohan Kokkula's Template](https://github.com/rohankokkula
 ✔️ Projects\
 ✔️ Contact\
 <br>
-To view a live example, **[click here](https://rohankokkula.netlify.app/)**
+To view a live example, **[click here](https://veydantkatyal.netlify.app/)**
 
 # Clone And Use 📋
 
